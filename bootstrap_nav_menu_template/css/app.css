@@ -1,0 +1,21 @@
+.app_menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 8em;
+	background-color: #8bd400;
+	border: 1px solid #486b02;
+	padding: 0.3em 1em;
+}
+
+.app_menu a {
+	display: block;
+	color: #2b3f00;
+	text-decoration: none;
+}
+
+.app_menu a:hover, a:focus, .selected a {
+	color: #E4FFD3;
+	background-color: #6DA203;
+
+};
